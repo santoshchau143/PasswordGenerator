@@ -56,28 +56,18 @@ Clone the repository:
 git clone https://github.com/your-username/password-generator.git
 
 Open the project folder:
-
 cd password-generator
-
 Then open index.html in your browser.
 
-No additional dependencies or installation are required.
-
-📸 Preview
-
-Add a screenshot of your project here:
-
-![Password Generator Preview](screenshot.png)
 🔮 Future Improvements
 Add password strength indicator
 Add exclude-character option
 Add password history
 Add dark/light mode
 Improve password generation security using the Web Crypto API
+
 👨‍💻 Author
-
 Santosh Kumar Chaudhary
-
 Computer Science & Engineering | Frontend Developer
 
 ⭐ Support
